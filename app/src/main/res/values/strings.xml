@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shara</string>
+    <!-- BOTTOM NAVIGATION VIEW -->
+    <string name="bottom_navigation_menu_1">Accueil</string>
+    <string name="bottom_navigation_menu_2">catégories</string>
+    <string name="bottom_navigation_menu_3">Compte</string>
+</resources>
